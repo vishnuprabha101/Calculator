@@ -39,3 +39,37 @@
 /workspaces/Calculator/obj/Debug/net8.0/Calculator.pdb
 /workspaces/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
 /workspaces/Calculator/obj/Debug/net8.0/ref/Calculator.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/appsettings.Development.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/appsettings.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Calculator
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Calculator.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Calculator.pdb
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.csproj.AssemblyReference.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets.build.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets.development.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculator.props
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculator.props
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculator.props
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/staticwebassets.pack.json
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/scopedcss/bundle/Calculator.styles.css
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.csproj.CopyComplete
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.pdb
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/home/vishnu/Documents/Cambrian/Sem 1/Backend/tempspace/Calculator/obj/Debug/net8.0/ref/Calculator.dll
