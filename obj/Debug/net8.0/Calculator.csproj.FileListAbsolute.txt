@@ -5,3 +5,37 @@
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
 /home/vishnu/Documents/Cambrian/Sem 1/Backend/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.csproj.AssemblyReference.cache
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfoInputs.cache
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.AssemblyInfo.cs
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.csproj.CoreCompileInputs.cache
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cs
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.sourcelink.json
+/workspaces/Calculator/bin/Debug/net8.0/appsettings.Development.json
+/workspaces/Calculator/bin/Debug/net8.0/appsettings.json
+/workspaces/Calculator/bin/Debug/net8.0/Calculator
+/workspaces/Calculator/bin/Debug/net8.0/Calculator.deps.json
+/workspaces/Calculator/bin/Debug/net8.0/Calculator.runtimeconfig.json
+/workspaces/Calculator/bin/Debug/net8.0/Calculator.dll
+/workspaces/Calculator/bin/Debug/net8.0/Calculator.pdb
+/workspaces/Calculator/bin/Debug/net8.0/Microsoft.AspNetCore.OpenApi.dll
+/workspaces/Calculator/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/workspaces/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/workspaces/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/workspaces/Calculator/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets.build.json
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets.development.json
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.Calculator.Microsoft.AspNetCore.StaticWebAssets.props
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.build.Calculator.props
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Calculator.props
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Calculator.props
+/workspaces/Calculator/obj/Debug/net8.0/staticwebassets.pack.json
+/workspaces/Calculator/obj/Debug/net8.0/scopedcss/bundle/Calculator.styles.css
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.csproj.Up2Date
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.dll
+/workspaces/Calculator/obj/Debug/net8.0/refint/Calculator.dll
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.pdb
+/workspaces/Calculator/obj/Debug/net8.0/Calculator.genruntimeconfig.cache
+/workspaces/Calculator/obj/Debug/net8.0/ref/Calculator.dll
